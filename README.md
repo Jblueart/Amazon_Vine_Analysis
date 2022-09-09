@@ -29,3 +29,10 @@ Google Colabs served as my interface where I was able to play with the data to e
 ## Unpaid Reviews for the win!
 
 ![Unpaid-reviews for the win](https://user-images.githubusercontent.com/104408782/189415818-ec0a061c-af4f-46ca-9f74-cc0bcde5926f.png)
+
+
+
+83% of the highly rated reviews were unpaid leading me to believe that the reviewer's are providing more accurate feedback in their reviews and are able to better understand the consumer experience and target customer audience than a paid reviewer. It was fascinating to see what a small percentage of the overall reviews were actually paid. 
+I originally thought there would be more paid reviews but a suprisingly large number of people left unpaid reviews. It makes me wonder what their motivation is. I know I rely on reviews when making purchases myself, but I rarely take the time to review products. It makes me wonder how motivated people are to review items and what drives the willingness to document a product's features for strangers to better understand what they're getting themselves into. 
+
+
